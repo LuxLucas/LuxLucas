@@ -1,6 +1,6 @@
 ### Olá, Mundo. Meu nome é Lucas e como podem ver eu gosto do significado. 💡
-##
-<div align="center">
+***
+<div>
   <!-- My GitHub Status -->
   <a href="https://github.com/luxlucas">
     <picture>
@@ -31,7 +31,6 @@
   </a>
 </div>
 <!--Minhas linguagens de programação atuais-->
-<br>
 <div>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -39,12 +38,9 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-5C2D91?style=for-the-badge&logo=css3&logoColor=white">
   </div>
-  <div>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </div>
-</div>
+  
+***
 
-##
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lux_lucas/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fl%C3%B4res-360a142a9/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuxLucas)
