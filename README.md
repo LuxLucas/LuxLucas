@@ -9,6 +9,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luxlucas&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/luxlucas#gh-dark-mode-only)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luxlucas&layout=compact&theme=github_dark&hide_border=true#gh-light-mode-only)](https://github.com/luxlucas#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luxlucas&layout=compact&hide_border=true#gh-light-mode-only)](https://github.com/luxlucas#gh-light-mode-only)
 
 </div>
