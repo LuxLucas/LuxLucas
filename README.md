@@ -1,7 +1,9 @@
 # LuxLucas ✨
 
 Olá, Mundo. Meu nome é Lucas e como podem ver eu gosto do significado. <img alt="Contador de visualização" align="right" src="https://komarev.com/ghpvc/?username=luxlucas&label=Visualizações&style=for-the-badge"/>
-****
+
+##
+
 <div>
   <!-- My GitHub Status -->
   <a href="https://github.com/luxlucas">
@@ -45,6 +47,7 @@ Olá, Mundo. Meu nome é Lucas e como podem ver eu gosto do significado. <img al
 
 ##
 
+<!-- Linguagens -->
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
