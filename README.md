@@ -1,5 +1,5 @@
-### Olá, Mundo. Meu nome é Lucas e como podem ver eu gosto do significado. 💡
-***
+## Olá, Mundo. Meu nome é Lucas e como podem ver eu gosto do significado. ![](https://komarev.com/ghpvc/?username=luxlucas&label=Visualizações&style=flat-square)
+
 <div>
   <!-- My GitHub Status -->
   <a href="https://github.com/luxlucas">
@@ -31,21 +31,20 @@
   </a>
 </div>
 
-***
+<!-- Animação da cobra -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LuxLucas/LuxLucas/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LuxLucas/LuxLucas/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/LuxLucas/LuxLucas/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### O Que Atualmente Uso:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](# 'Python')
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](# 'JavaScript')
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](# 'HTML5')
 [![CSS3](https://img.shields.io/badge/CSS3-5C2D91?style=for-the-badge&logo=css3&logoColor=white)](# 'CSS3')  
-*************************
 
 ### Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lux_lucas/ 'Instagram')
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fl%C3%B4res-360a142a9/ 'LinkedIn')
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LuxLucas/LuxLucas/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LuxLucas/LuxLucas/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/LuxLucas/LuxLucas/blob/output/github-contribution-grid-snake.svg" />
-</picture>
