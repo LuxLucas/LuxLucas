@@ -1,6 +1,6 @@
 # LuxLucas ✨
 
-Olá, Mundo. Meu nome é Lucas e, como podem ver, gosto do significado. <a href="#"><img alt="Contador de visualização" align="right" src="https://komarev.com/ghpvc/?username=luxlucas&label=Visualizações&style=for-the-badge"/></a>
+Olá, Mundo. Meu nome é Lucas e, como podem ver, gosto do significado. <a href="#"><img alt="Contador de visualização" align="right" src="https://komarev.com/ghpvc/?username=luxlucas&label=Vezes_que_a_página_carregou&style=for-the-badge"/></a>
 
 ##
 
